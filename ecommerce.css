@@ -1,0 +1,80 @@
+*{
+    margin: 0%;
+    font-family: Arial, Helvetica, sans-serif;
+    box-sizing: border-box;
+}
+.navbar-brand{
+    width: 10%;
+}
+.navbar{
+    background-color: #f06292;
+}
+.nav-link{
+    color: white;
+    font-weight: bold;
+}
+.fa-bars{
+    font-size: 20px;
+    color: white;
+}
+/* Home*/
+#home{
+    background-image: url(https://img.freepik.com/free-photo/top-view-fresh-fruits-with-red-berries-pink-surface_140725-75299.jpg?t=st=1746599823~exp=1746603423~hmac=1c0ab31762f09f7bb5e3141104ba4c800aae5b7b0a7bdae8fa77fbec47c881ca&w=1380);
+    width: 100vw;
+    height: 100vh;
+    background-size: cover;
+}
+.organic{
+    color: white;
+    font-weight: bold;
+    text-shadow: 1px 2px 5px black;
+}
+/*About*/
+.heading{
+    font-size: 40px; 
+    color: green;
+    font-weight: bold;
+}
+.d-block{
+    aspect-ratio: 3/2;
+    width: 100%;
+}
+.parac h1{
+    color: #f06292;
+    font-weight: bold;
+}
+.parac p{
+    line-height: 30px;
+}
+/* products */
+.pimg{
+    object-fit: contain;
+    width: 100%;
+    aspect-ratio: 3/2;
+}
+
+.productcontent h4{
+    color: #f06292;
+    font-weight: bold;
+}
+.productcontent p{
+    font-weight: bold;
+}
+.card {
+    padding: 5%;
+}
+.input-group-text{
+    background-color: #f06292;
+    color:white;
+    font-weight: bold;
+    border: none;
+    text-shadow: 1px 2px 3px black;
+}
+#footer{
+    background-color:#f06292;
+    padding: 1%;
+}
+.flinks{
+    color:white;
+    font-size: 18px;
+}
